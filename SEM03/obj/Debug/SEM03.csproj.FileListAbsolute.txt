@@ -1,0 +1,14 @@
+C:\Users\SABRINA\source\repos\SEM03\SEM03\obj\Debug\SEM03.csprojAssemblyReference.cache
+C:\Users\SABRINA\source\repos\SEM03\SEM03\obj\Debug\MainWindow.g.cs
+C:\Users\SABRINA\source\repos\SEM03\SEM03\obj\Debug\App.g.cs
+C:\Users\SABRINA\source\repos\SEM03\SEM03\obj\Debug\SEM03_MarkupCompile.cache
+C:\Users\SABRINA\source\repos\SEM03\SEM03\obj\Debug\SEM03_MarkupCompile.lref
+C:\Users\SABRINA\source\repos\SEM03\SEM03\bin\Debug\SEM03.exe.config
+C:\Users\SABRINA\source\repos\SEM03\SEM03\bin\Debug\SEM03.exe
+C:\Users\SABRINA\source\repos\SEM03\SEM03\bin\Debug\SEM03.pdb
+C:\Users\SABRINA\source\repos\SEM03\SEM03\obj\Debug\MainWindow.baml
+C:\Users\SABRINA\source\repos\SEM03\SEM03\obj\Debug\SEM03.g.resources
+C:\Users\SABRINA\source\repos\SEM03\SEM03\obj\Debug\SEM03.Properties.Resources.resources
+C:\Users\SABRINA\source\repos\SEM03\SEM03\obj\Debug\SEM03.csproj.GenerateResource.cache
+C:\Users\SABRINA\source\repos\SEM03\SEM03\obj\Debug\SEM03.exe
+C:\Users\SABRINA\source\repos\SEM03\SEM03\obj\Debug\SEM03.pdb
